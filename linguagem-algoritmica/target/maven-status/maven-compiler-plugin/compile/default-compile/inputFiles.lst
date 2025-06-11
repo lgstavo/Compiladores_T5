@@ -1,0 +1,12 @@
+/home/luiz/Compiladores_T5/linguagem-algoritmica/target/generated-sources/antlr4/br/ufscar/dc/compiladores/t5/LinguagemAlgoritmicaVisitor.java
+/home/luiz/Compiladores_T5/linguagem-algoritmica/target/generated-sources/antlr4/br/ufscar/dc/compiladores/t5/LinguagemAlgoritmicaParser.java
+/home/luiz/Compiladores_T5/linguagem-algoritmica/src/main/java/br/ufscar/dc/compiladores/t5/T5.java
+/home/luiz/Compiladores_T5/linguagem-algoritmica/src/main/java/br/ufscar/dc/compiladores/t5/SemanticAnalyzer.java
+/home/luiz/Compiladores_T5/linguagem-algoritmica/target/generated-sources/antlr4/br/ufscar/dc/compiladores/t5/LinguagemAlgoritmicaListener.java
+/home/luiz/Compiladores_T5/linguagem-algoritmica/target/generated-sources/antlr4/br/ufscar/dc/compiladores/t5/LinguagemAlgoritmicaLexer.java
+/home/luiz/Compiladores_T5/linguagem-algoritmica/src/main/java/br/ufscar/dc/compiladores/t5/SemanticUtils.java
+/home/luiz/Compiladores_T5/linguagem-algoritmica/target/generated-sources/antlr4/br/ufscar/dc/compiladores/t5/LinguagemAlgoritmicaBaseVisitor.java
+/home/luiz/Compiladores_T5/linguagem-algoritmica/src/main/java/br/ufscar/dc/compiladores/t5/Generator.java
+/home/luiz/Compiladores_T5/linguagem-algoritmica/target/generated-sources/antlr4/br/ufscar/dc/compiladores/t5/LinguagemAlgoritmicaBaseListener.java
+/home/luiz/Compiladores_T5/linguagem-algoritmica/src/main/java/br/ufscar/dc/compiladores/t5/Scopes.java
+/home/luiz/Compiladores_T5/linguagem-algoritmica/src/main/java/br/ufscar/dc/compiladores/t5/SymbolTable.java
